@@ -1,0 +1,89 @@
+{
+  "Products": [
+    {
+      "productName": "K-Duo Special Edition Single Serve & Carafe...",
+      "productImage": "coffeeOne.webp",
+      "productShortDesc": "This is a great coffee maker",
+      "productLongDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio qui quasi rerum temporibus minus, hic, totam vero rem nulla odio repellendus corrupti blanditiis impedit quis autem iusto vitae deserunt aliquam.",
+      "productPrice": "$99.99"
+    },
+    {
+      "productName": "Keurig K-Elite Single Serve Coffee Maker",
+      "productImage": "coffeeTwo.webp",
+      "productShortDesc": "This is a great coffee maker",
+      "productLongDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio qui quasi rerum temporibus minus, hic, totam vero rem nulla odio repellendus corrupti blanditiis impedit quis autem iusto vitae deserunt aliquam.",
+      "productPrice": "$118.99"
+    },
+    {
+      "productName": "K-Mini Single Serve Coffee Maker",
+      "productImage": "coffeeThree.webp",
+      "productShortDesc": "This is a great coffee maker",
+      "productLongDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio qui quasi rerum temporibus minus, hic, totam vero rem nulla odio repellendus corrupti blanditiis impedit quis autem iusto vitae deserunt aliquam.",
+      "productPrice": "$71.99"
+    },
+    {
+      "productName": "Keurig K-Classic Coffee Maker",
+      "productImage": "coffeeFour.webp",
+      "productShortDesc": "This is a great coffee maker",
+      "productLongDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio qui quasi rerum temporibus minus, hic, totam vero rem nulla odio repellendus corrupti blanditiis impedit quis autem iusto vitae deserunt aliquam.",
+      "productPrice": "$119.99"
+    },
+    {
+      "productName": "Keurig K-Select Coffee Maker",
+      "productImage": "coffeeFive.webp",
+      "productShortDesc": "This is a great coffee maker",
+      "productLongDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio qui quasi rerum temporibus minus, hic, totam vero rem nulla odio repellendus corrupti blanditiis impedit quis autem iusto vitae deserunt aliquam.",
+      "productPrice": "$69.99"
+    },
+    {
+      "productName": "K-Slim Single Serve Coffee Maker",
+      "productImage": "coffeeSix.webp",
+      "productShortDesc": "This is a great coffee maker",
+      "productLongDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio qui quasi rerum temporibus minus, hic, totam vero rem nulla odio repellendus corrupti blanditiis impedit quis autem iusto vitae deserunt aliquam.",
+      "productPrice": "$79.99"
+    },
+    {
+      "productName": "K-Duo Plus Single Serve & Carafe Coffee Maker",
+      "productImage": "coffeeSeven.webp",
+      "productShortDesc": "This is a great coffee maker",
+      "productLongDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio qui quasi rerum temporibus minus, hic, totam vero rem nulla odio repellendus corrupti blanditiis impedit quis autem iusto vitae deserunt aliquam.",
+      "productPrice": "$183.99"
+    },
+    {
+      "productName": "K-Duo Single Serve & Carafe Coffee Maker",
+      "productImage": "coffeeEight.webp",
+      "productShortDesc": "This is a great coffee maker",
+      "productLongDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio qui quasi rerum temporibus minus, hic, totam vero rem nulla odio repellendus corrupti blanditiis impedit quis autem iusto vitae deserunt aliquam.",
+      "productPrice": "$119.99"
+    },
+    {
+      "productName": "Keurig K-Cafe Barista Bar Single Serve...",
+      "productImage": "coffeeNine.webp",
+      "productShortDesc": "This is a great coffee maker",
+      "productLongDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio qui quasi rerum temporibus minus, hic, totam vero rem nulla odio repellendus corrupti blanditiis impedit quis autem iusto vitae deserunt aliquam.",
+      "productPrice": "$99.99"
+    },
+    {
+      "productName": "K-Cafe Special Edition Single Serve Coffee...",
+      "productImage": "coffeeTen.webp",
+      "productShortDesc": "This is a great coffee maker",
+      "productLongDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio qui quasi rerum temporibus minus, hic, totam vero rem nulla odio repellendus corrupti blanditiis impedit quis autem iusto vitae deserunt aliquam.",
+      "productPrice": "$199.99"
+    },
+    {
+      "productName": "Keurig K-Compact Coffee Maker - Grey",
+      "productImage": "coffeeEleven.webp",
+      "productShortDesc": "This is a great coffee maker",
+      "productLongDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio qui quasi rerum temporibus minus, hic, totam vero rem nulla odio repellendus corrupti blanditiis impedit quis autem iusto vitae deserunt aliquam.",
+      "productPrice": "$119.99"
+    },
+    {
+      "productName": "Keurig K-Compact Coffee Maker - White",
+      "productImage": "coffeeTwelve.webp",
+      "productShortDesc": "This is a great coffee maker",
+      "productLongDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio qui quasi rerum temporibus minus, hic, totam vero rem nulla odio repellendus corrupti blanditiis impedit quis autem iusto vitae deserunt aliquam.",
+      "productPrice": "$119.99"
+    }
+  ],
+  "Cart": []
+}

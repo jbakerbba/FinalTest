@@ -1,0 +1,357 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100%;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+span {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.topNav {
+  height: 100px;
+  background-color: rgb(253, 245, 230);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.topnav a,
+span {
+  text-decoration: none;
+  color: black;
+  font-size: 12px;
+}
+
+.k-logo {
+  width: 200px;
+  height: 50px;
+  background-image: url(../images/k-logo.png);
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.topnav,
+input {
+  width: 500px;
+  height: 38px;
+  border-style: none;
+  border-radius: 25px;
+  padding-left: 20px;
+  border: 1px solid lightgrey;
+}
+
+nav {
+  height: 50px;
+  background-color: rgb(253, 245, 230);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+}
+
+#navDeals {
+  color: red;
+}
+
+.rightNav {
+  display: flex;
+  width: 200px;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.rightNav a {
+  text-decoration: none;
+  color: black;
+  font-size: 10px;
+}
+
+.support {
+  height: 40px;
+  width: 40px;
+  background-image: url(../images/support-k.png);
+  background-position: center;
+  background-size: cover;
+}
+
+.account {
+  height: 40px;
+  width: 40px;
+  background-image: url(../images/account-k.png);
+  background-position: center;
+  background-size: cover;
+}
+.cart {
+  height: 40px;
+  width: 40px;
+  background-image: url(../images/cart-k.png);
+  background-position: center;
+  background-size: cover;
+}
+a {
+  text-align: center;
+}
+
+.bottomNav {
+  height: 50px;
+  background-color: rgb(62, 19, 19);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-bottom: 20px;
+}
+
+.bottomNav a {
+  color: white;
+  font-size: 12px;
+}
+
+.bottomNav span {
+  color: white;
+  font-size: 20px;
+}
+
+.homeWrapper {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.home {
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.salesBanner {
+  height: 250px;
+  width: 100%;
+  background-image: url(../images/keurig-sale-banner.webp);
+  margin: 0 auto;
+  background-size: cover;
+}
+
+.filterWrapper {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.filters {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: flex;
+  width: 80%;
+  justify-content: space-between;
+}
+
+.filters a {
+  display: flex;
+  padding: 10px;
+  border: 2px solid grey;
+  border-radius: 5px;
+  color: grey;
+  text-decoration: none;
+}
+
+.downArrow {
+  height: 20px;
+  width: 20px;
+  background-image: url(../images/downArrow.png);
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-left: 10px;
+}
+
+.filterWrapper span {
+  display: flex;
+  color: grey;
+  align-items: center;
+  justify-content: center;
+  padding-right: 20px;
+}
+
+.coffee {
+  width: 250px;
+  height: 450px;
+  background-color: rgb(245, 245, 245);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 15px;
+  margin-bottom: 40px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.price {
+  color: orangered;
+  padding-bottom: 10px;
+}
+
+.buyNow {
+  width: 100%;
+  height: 40px;
+  border: 2px solid rgb(255, 221, 0);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: black;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  cursor: pointer;
+}
+
+footer {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.footerBanner {
+  display: flex;
+  background-color: rgb(62, 19, 19);
+  height: 50px;
+  justify-content: space-between;
+  width: 100%;
+}
+.fbLeft {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.fbLeft span {
+  color: white;
+  font-size: 12px;
+}
+.locationIcn {
+  height: 20px;
+  width: 20px;
+  background-image: url(../images/icons8-location-100.png);
+  background-position: center;
+  background-size: cover;
+  margin-left: 20px;
+  margin-right: 10px;
+}
+.fbRight {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.fbRight span {
+  color: white;
+  font-size: 12px;
+}
+.socials {
+  width: 100px;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-right: 90px;
+}
+.twitter {
+  height: 20px;
+  width: 20px;
+  background-image: url(../images/twitter-k.png);
+  background-position: center;
+  background-size: cover;
+}
+.facebook {
+  height: 20px;
+  width: 20px;
+  background-image: url(../images/facebook-k.png);
+  background-position: center;
+  background-size: cover;
+}
+.instagram {
+  height: 20px;
+  width: 20px;
+  background-image: url(../images/instagram-k.png);
+  background-position: center;
+  background-size: cover;
+}
+
+.footerLinks {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+}
+
+.section h1 {
+  font-size: 18px;
+  margin-top: 15px;
+  color: black;
+}
+
+.section a {
+  text-decoration: none;
+  color: grey;
+  size: 10px;
+  line-height: 1.7em;
+}
+
+.mail {
+  display: flex;
+  margin-top: 20px;
+}
+#emailFooter {
+  width: 70%;
+  border-radius: 2px;
+}
+#signupFooter {
+  width: 30%;
+  border-radius: 0;
+  text-align: left;
+  cursor: pointer;
+  background-color: transparent;
+  border: 2px solid rgb(255, 221, 0);
+  border-radius: 2px;
+}
+hr {
+  width: 100%;
+  border: 0.5px solid gray;
+  margin-top: 20px;
+}
+
+#copywrite {
+  margin: 0 auto;
+  margin-top: 10px;
+  flex: none;
+}
+
+.copywrite {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-bottom: 50px;
+}
